@@ -316,6 +316,10 @@ hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "052ad8f91d56a5a194735a595eaeca310be2ec9b22ee5ee3151ffd40bfe2019d"
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "8445f71e1d1a5d5574204382fba1c75b5506ccf07b8a7605f0d810574c113d70"
 metafile = true

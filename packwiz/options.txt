@@ -1,0 +1,9 @@
+version:3120
+autoJump:false
+enableVsync:false
+fullscreen:true
+fov:0.5
+guiScale:3
+maxFps:120
+graphicsMode:1
+key_key.saveToolbarActivator:key.keyboard.unknown
