@@ -45,6 +45,11 @@ hash = "acd9476ac98a405edb48e5affa6805d9cfc70f02ed624a5146e14e86fcc98b23"
 metafile = true
 
 [[files]]
+file = "mods/charm.pw.toml"
+hash = "ff8960a3bf63e66854c676cf1db8b88c6666bc526e3d3562be297d94c528472a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
@@ -52,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "dcde5bfabe35341d1dedeb43ce46c4f9310c02a3ba3aad8402933a4e3bdfc491"
+metafile = true
+
+[[files]]
+file = "mods/configured-fabric.pw.toml"
+hash = "769481536dccb0e770ab7ec217142e3c3c3bc16c55bc4d35ddd14f41eeb85aca"
 metafile = true
 
 [[files]]
