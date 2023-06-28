@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "c3062983fd31168bb69053194430f27d88f83bdf5f3083042ca9b15e90dd4f40"
-
-[[files]]
-file = "config/byg/overworld/byg-overworld-biomes.json5"
-hash = "a8c9bcac752e26f2a67f2812a708abaad30477667c9be2294d5da71446e47f82"
-
-[[files]]
 file = "config/immersive_portals_fabric.json"
 hash = "7d4b0e62197bf7b8c0cdb24acfe4b1742e4e7814d0da33fb18d96698a6292189"
 
