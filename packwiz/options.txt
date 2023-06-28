@@ -6,4 +6,5 @@ fov:0.5
 guiScale:3
 maxFps:120
 graphicsMode:1
+tutorialStep:none
 key_key.saveToolbarActivator:key.keyboard.unknown
