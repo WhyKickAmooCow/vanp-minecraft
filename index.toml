@@ -5,6 +5,30 @@ file = "README.md"
 hash = "c3062983fd31168bb69053194430f27d88f83bdf5f3083042ca9b15e90dd4f40"
 
 [[files]]
+file = "config/byg/overworld/byg-overworld-biomes.json5"
+hash = "a8c9bcac752e26f2a67f2812a708abaad30477667c9be2294d5da71446e47f82"
+
+[[files]]
+file = "config/immersive_portals_fabric.json"
+hash = "7d4b0e62197bf7b8c0cdb24acfe4b1742e4e7814d0da33fb18d96698a6292189"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "a76af4655073e62d9e0be17dd03c2e92d97e4879d5b92576f893a4c26598e116"
+
+[[files]]
+file = "config/iris.properties"
+hash = "f937ab4152c358f5607313f073320c8b4a3135f838ed976016ba56aa04f823ee"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "89f819f6864b96a3e7fc4d0cbeb6441aaf4da19e0300d7eee24e008c98459c65"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "d3d99f811e59a159db1b37ef6cebe22225bf17c282b07851c68fbeca66778c67"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "0aa7e85b6c0cf8cc425a37350306f62b6dd119b3f384132ff3aa2e1141969251"
 metafile = true
@@ -82,11 +106,6 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
-metafile = true
-
-[[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
 
 [[files]]
