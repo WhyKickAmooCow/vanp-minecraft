@@ -1,0 +1,12 @@
+name = "Vanilla Plus"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "11c9757c20e21f350b883f4c82bc748adead085bec4133ecda84f4d152a1d39f"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.2"
