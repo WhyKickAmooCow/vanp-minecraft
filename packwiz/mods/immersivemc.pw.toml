@@ -1,0 +1,13 @@
+name = "ImmersiveMC"
+filename = "immersivemc-1.4.0-beta1.1-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XJ9is6vj/versions/sLGj7pCf/immersivemc-1.4.0-beta1.1-1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "63a9a10a43abdcd86dab8b2174e4cd4a3d9e54ce"
+
+[update]
+[update.modrinth]
+mod-id = "XJ9is6vj"
+version = "sLGj7pCf"
