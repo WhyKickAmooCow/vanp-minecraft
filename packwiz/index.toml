@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/physicsmod/physics_server_config.json"
+hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
 metafile = true
@@ -63,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
+metafile = true
+
+[[files]]
+file = "mods/physicsmod.pw.toml"
+hash = "ba99d9c5c36b29145d56f148d3c92b6cb0f1a922a4271b24f9b5ea3764c42268"
 metafile = true
 
 [[files]]
