@@ -1,1 +1,2 @@
-# vanp-minecraft
+# Template packwiz pack
+A template for a packwiz minecraft modpack with an auto updating mmc pack for users to install. Contains no mods but serves as a starting point for any further modpacks I will be making.
