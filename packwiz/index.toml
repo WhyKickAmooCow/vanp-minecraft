@@ -75,8 +75,9 @@ hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
-file = "mods/physics-mod-pro.toml"
-hash = "18c3c16c08582f407e0ca3acf8dcc85c2db5b2aefa33baf155e47d723905870c"
+file = "mods/pysics-mod-pro.pw.toml"
+hash = "05e20dff26938b0b15c33626b7ef2b15b26d91956a71215fcaa9e71ea73df3d6"
+metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
