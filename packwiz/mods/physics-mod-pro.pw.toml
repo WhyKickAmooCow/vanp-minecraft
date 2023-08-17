@@ -1,0 +1,8 @@
+name = "Physics Mod Pro"
+filename = "physics-mod-pro-v158a-fabric-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://c3.kemono.party/data/67/e7/67e73b2875a2a6c790774c1f4a7c65be5042d9e84c13b9fd0505c9e8079009c4.zip?f=physics-mod-pro-v158a-fabric-1.20.1.jar"
+hash-format = "sha256"
+hash = "67e73b2875a2a6c790774c1f4a7c65be5042d9e84c13b9fd0505c9e8079009c4"
