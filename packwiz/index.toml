@@ -65,14 +65,18 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/mc-vr-api.pw.toml"
+hash = "1e7876258f4f47e5ef921a39c1ccaddf86fe6a6bd92cb25f5f1b0e6d514f10c1"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
-file = "mods/physicsmod.pw.toml"
-hash = "ba99d9c5c36b29145d56f148d3c92b6cb0f1a922a4271b24f9b5ea3764c42268"
-metafile = true
+file = "mods/physics-mod-pro.toml"
+hash = "18c3c16c08582f407e0ca3acf8dcc85c2db5b2aefa33baf155e47d723905870c"
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
