@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "8717aacca4dbb63fc3fe76da8842a7e398273c6c162526d86bab764b93700e7a"
+hash = "5767f065dbd26198151661ba4bb39c8e5cd63325c2e738b2f66a7dc153e8da5b"
 metafile = true
 
 [[files]]
@@ -40,11 +40,6 @@ hash = "0bc3bfa76d528853466353a00ea3d59c035da7c86c1000533f0d0cf32148db00"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "54b7d92cf08c2ac96b49249e96accdb012d5afa401b0f75eaf0160e0ba860d47"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
@@ -62,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "b877e1471ac8eb9933a9c8c2529748b5a2ab05e63eaf564f63624288a18c3429"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "b97c2e6418ccc906fdba8bf0318b97b8cd9cf66454064c5a37a662add9ab8d15"
 metafile = true
 
 [[files]]
@@ -187,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "c977b3bfece9ac913c3c61f6e61babd1886cf2d1706fa42013b40cfa094bb569"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
 metafile = true
 
 [[files]]
