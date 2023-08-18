@@ -11,3 +11,7 @@ hash = "e65247d4b2ed0f82fc193366ca9d82f8f9ac6f85"
 [update.modrinth]
 mod-id = "fM515JnW"
 version = "ohMKnW3z"
+
+[option]
+optional = true
+description = "Maybe they are annoying to you I guess"
