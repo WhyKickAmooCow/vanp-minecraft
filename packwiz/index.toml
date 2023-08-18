@@ -1,8 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/physicsmod/physics_server_config.json"
+file = "config/yosbr/config/ambientsounds-client.json"
+hash = "bcc39b5ab98bf40273de5b5ea398ae6baf4fc85286922ca99f73b3eed233aa6a"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_client_config.json"
+hash = "635140fa655c4653e5e48d4a957c25b6a77dcec236c0707ffa32ed9fa75994f4"
+
+[[files]]
+file = "config/yosbr/config/physicsmod/physics_server_config.json"
 hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
+
+[[files]]
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
+hash = "dcfba7c5b43cbdb1eb87700f2593e8189618d74b8be794e06b2827f8306097fa"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "e38093d127d99f94f1dc0ca47aecdd7d1f45158a23777dfd47f108a31e7047af"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -32,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
 
 [[files]]
@@ -150,6 +171,21 @@ hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "15fb9323cacfda7515c79795f18bccabe8542de302db538c103ba19641b17bd3"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "3ec6010e6922154637aa19d6523853262ff1eaff9cc8eaca10d800932139ad9e"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "b0f9f030784dd0f91b8f2d2342b8743c66d1c1a710f5171aa5f25df317433f1d"
 metafile = true
@@ -210,6 +246,11 @@ hash = "4bf9b4c8888a01c770878fe183637e0a178bde39109334e0439741126c4df656"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "ebdc8d126b65c7b54dd91a2f0605b77ed1365249325d9d7c5a77854ddb2c7904"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "3306e7374f01d1d0f243d5a0bcaf21dd87adcaa638c056bfefcb0603910abaa5"
 metafile = true
@@ -217,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/vivecraft.pw.toml"
 hash = "c977b3bfece9ac913c3c61f6e61babd1886cf2d1706fa42013b40cfa094bb569"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]

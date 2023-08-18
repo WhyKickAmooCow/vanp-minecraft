@@ -1,0 +1,4 @@
+version:3465
+tutorialStep:none
+resourcePacks:["vanilla","fabric","minecraft:supporteatinganimation","minecraft:physicsmod","continuity:default","continuity:glass_pane_culling_fix","file/FreshAnimations_v1.8.1.zip"]
+incompatibleResourcePacks:["minecraft:physicsmod","file/FreshAnimations_v1.8.1.zip"]

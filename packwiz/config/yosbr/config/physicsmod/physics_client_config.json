@@ -1,0 +1,17 @@
+{
+  "snowType": 1,
+  "blockSettings": {
+    "Physics Type": 0,
+    "Lifetime": 2.000000000000000,
+    "Lifetime Variance": 0.50000000298023224,
+    "Scale": 1.0,
+    "Animation": 1
+  },
+  "mobSettings": {
+    "Physics Type": 0,
+    "Lifetime": 4.0,
+    "Lifetime Variance": 3.0,
+    "Animation": -1
+  },
+  "smokePhysics": false
+}
