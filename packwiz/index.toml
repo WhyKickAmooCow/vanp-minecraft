@@ -135,6 +135,11 @@ hash = "b0f9f030784dd0f91b8f2d2342b8743c66d1c1a710f5171aa5f25df317433f1d"
 metafile = true
 
 [[files]]
+file = "mods/pandas-falling-trees.pw.toml"
+hash = "67626337d9ab97ac81c0650a8449b39c0972767d3439d9e90a9d6f6daee1ddf4"
+metafile = true
+
+[[files]]
 file = "mods/perfect-accuracy.pw.toml"
 hash = "2256146bd9b62695a8f33739ff84476cd849ee0646e9961163980094226f857c"
 metafile = true
