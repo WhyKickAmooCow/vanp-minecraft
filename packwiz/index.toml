@@ -5,6 +5,18 @@ file = "config/yosbr/config/ambientsounds-client.json"
 hash = "bcc39b5ab98bf40273de5b5ea398ae6baf4fc85286922ca99f73b3eed233aa6a"
 
 [[files]]
+file = "config/yosbr/config/bedrockify/bedrockifyClient.json"
+hash = "01d62f148007aef27610588a2353e4046a9d52a552f84395ad81c44f86baddb6"
+
+[[files]]
+file = "config/yosbr/config/bedrockify/bedrockifyCommon.json"
+hash = "74c1054db151e60b9522ff7e6f71f251d5500de92b8701f2a57ab3f5d6b2cd12"
+
+[[files]]
+file = "config/yosbr/config/bedrockify/bedrockifyMixins.json"
+hash = "4ef859d2a86c6d3608db2ea43c56a457c078859296b63fc99911af2b72e454a7"
+
+[[files]]
 file = "config/yosbr/config/physicsmod/physics_client_config.json"
 hash = "635140fa655c4653e5e48d4a957c25b6a77dcec236c0707ffa32ed9fa75994f4"
 
@@ -51,6 +63,16 @@ hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "a69efb704b2ba8f1ec23809071f4902311db4ddf2c531358428e0803f2d8e26e"
+metafile = true
+
+[[files]]
+file = "mods/bedrockify.pw.toml"
+hash = "a85b560cc89c5d6d6245eedb022c37de9aa2844812d6fad0069bd78c400d5545"
+metafile = true
+
+[[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "6a51c7bacf8d179e11fe783804fd3687e409f34f6288e1aaceedf7261ee14006"
 metafile = true
@@ -66,6 +88,11 @@ hash = "01ffccbc9135105f9a3f56d7c0f6d24e5604c6fac0bfb2ac162a6cda20bcab78"
 metafile = true
 
 [[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "2a564a466dfec0e9020d1e46c9c7d730511beb25681ad76c2e6160fda591b680"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
 metafile = true
@@ -78,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "82285f2aa33891d7b7ad1f9d6b8cdacb46aa2bde7d091cc65d279b0ef0caeb3a"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "8b40bfadfa94f40e3310148cb4828e304cbdd3842304c300366b25a0d0769818"
 metafile = true
 
 [[files]]
@@ -136,6 +168,11 @@ hash = "82a7c9721c81c309d3c4dc2cf93ab12e1399894d03b738782ac04b0b7c232213"
 metafile = true
 
 [[files]]
+file = "mods/invmove.pw.toml"
+hash = "881ad6ef91c24ce547c8062685cf361b1937b4162c8a238196c8106ef62ab15d"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
 metafile = true
@@ -163,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/mc-vr-api.pw.toml"
 hash = "1e7876258f4f47e5ef921a39c1ccaddf86fe6a6bd92cb25f5f1b0e6d514f10c1"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
 metafile = true
 
 [[files]]
@@ -216,6 +258,11 @@ hash = "5027329d763899c40db5e3f389cfb2262d61d0037668c331db0cec1491c585d8"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "a6e087aa1beacb72cbfd77e442c78329b8a3c8af71cd3833078ff4cc7186d64f"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "16edb6e9b2eb85405f9a3e4ac7159a0c00a9d47bfb4dc9d5b548bca37245fc06"
 metafile = true
@@ -248,6 +295,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "4bf9b4c8888a01c770878fe183637e0a178bde39109334e0439741126c4df656"
+metafile = true
+
+[[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "e0abd290de019a8918b8f7f68bdc7a63ed43921082a8f70ef6cba99bf3582784"
 metafile = true
 
 [[files]]
