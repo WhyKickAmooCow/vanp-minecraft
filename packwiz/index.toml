@@ -17,6 +17,10 @@ file = "config/yosbr/config/bedrockify/bedrockifyMixins.json"
 hash = "4ef859d2a86c6d3608db2ea43c56a457c078859296b63fc99911af2b72e454a7"
 
 [[files]]
+file = "config/yosbr/config/clienttweaks-common.toml"
+hash = "20636b5f1240e746f47b22e09afedddac8dca91e0033135e256b87ff46c54ccf"
+
+[[files]]
 file = "config/yosbr/config/physicsmod/physics_client_config.json"
 hash = "635140fa655c4653e5e48d4a957c25b6a77dcec236c0707ffa32ed9fa75994f4"
 

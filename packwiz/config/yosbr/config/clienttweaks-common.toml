@@ -1,0 +1,7 @@
+[tweaks]
+
+# This adds back the master volume slider to the options screen. Saves you a click!
+masterVolumeSlider = false
+
+# This adds back the music volume slider to the options screen. Saves you a click!
+musicVolumeSlider = false
