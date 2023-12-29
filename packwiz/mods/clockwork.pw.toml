@@ -1,0 +1,9 @@
+name = "Clockwork"
+filename = "valkyrienskies-118-forge-2.1.1-beta.3e00ea733a3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/1100497495450210384/1163499566688108584/valkyrienskies-118-forge-2.1.1-beta.3e00ea733a3.jar?ex=659c1569&is=6589a069&hm=2f65adcb8bfaa361a505592d49be30e1734671d7f101e426bd7a249a20dba61e&"
+
+hash-format = "sha256"
+hash = "0c88f48a780ec14a2a4cb1d2cbd507184c090015b12e6b8bf88712930803f220"
