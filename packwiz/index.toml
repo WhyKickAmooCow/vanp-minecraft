@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/options.txt"
+hash = "9d77a81a029dcc5181fd417abded787dff3465455a6c0025747095bf2a23dcf3"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "c7d945d10983e24c101cb18614a605c2c3a25322348b68bb8666addbc3fe4fba"
 metafile = true
@@ -281,8 +285,8 @@ hash = "63bb2ea9baa9384434936bdf44e87dec08508477e0707fcd9e626ec809e40571"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "08a3427628be0bbb34652b340b8bce5690b6a3ec55f8521ac33604440abc2d8c"
+file = "resourcepacks/Stay Crew.zip"
+hash = "ad497925317814b62137b94eb5d0a7531abd44827e514a369160a8b80aec0dd7"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

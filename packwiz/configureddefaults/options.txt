@@ -2,6 +2,7 @@ version:3120
 autoJump:false
 enableVsync:false
 fullscreen:true
+resourcePacks:["vanilla","mod_resources","file/Stay Crew.zip"]
 fov:0.5
 guiScale:3
 maxFps:120
