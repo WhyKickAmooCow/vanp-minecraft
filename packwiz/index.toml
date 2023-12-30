@@ -45,6 +45,16 @@ hash = "40f6974a592845b6294aec402b4e4ac9abf6d2fda0f1b5d426797fa9ea25983e"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "0ac2ee8c06a13bd0009b5a2eb95cffbdf89b726f5cd45a170faa83eaedf507ec"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "f216f9d7d48d821fb82fdeebd6dce93724862158fc2de33f08b4686829529bf0"
+metafile = true
+
+[[files]]
 file = "mods/beehivetooltips.pw.toml"
 hash = "ad9cd6015f235a5efefd703858939c0a85c5d4bf558c3431d954945f8cd17297"
 metafile = true
@@ -77,6 +87,11 @@ metafile = true
 [[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "4f23ec4f00364a26a94516833be54028cefd525e8ac1bc0697e5f6718fc97bac"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "d647c96a37237cca3668cff8e0467a411e25eb783a9ce7c7d05a414a98da986c"
 metafile = true
 
 [[files]]
@@ -200,6 +215,11 @@ hash = "92ce33e0583f48e6b2a60389de37ad25078801fb56ac5e9d11972a8d8d3e7f54"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "90cbd5f1ea785cef93c8af0a54f908fe4aed90f96456aeba529c5e6199f2ba3b"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "de79e8615a4d06d01b575fa4ef255fe92e20a308c94769cb3d20612c79c69a9a"
 metafile = true
@@ -207,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
 metafile = true
 
 [[files]]
@@ -235,6 +260,11 @@ hash = "f79379e83a892d01872ebb46815ce9710ecbc075f917656b1d879669f8e65bb1"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "4d04ec67f5041f013f8794b693c20a00ce79d23cbca877b56803e5a73951414c"
+metafile = true
+
+[[files]]
 file = "mods/reforgium.pw.toml"
 hash = "f1bcbc345d9d7fe0014918a1a044b2d2a13d3f050750d9fc0854ff0864096112"
 metafile = true
@@ -255,6 +285,11 @@ hash = "aa9dd1faf202e0d01b36bce26d51321fde896d71b271edb3cb39646fb760bec1"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "84b5986ae7880e60971db1499fb6ae50d818d335fb795c293d64d57e937aa249"
 metafile = true
@@ -270,8 +305,18 @@ hash = "a3bab37714fd9b939bbfe9376f2d0a02756a9021ebb2e0202d4fd6cc7ea250d5"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-computers.pw.toml"
+hash = "0704fd71f951c048448da3a434675e4e0f44b18739f73614ad817b06c1973b7a"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "77e55efd774c80411f170c9dc7820e093b481db7e539d6012b8301404cd3d172"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "b6717974145774238e8562a4e56eafdae7320b73fb9a460fc01b2ee13f020e54"
 metafile = true
 
 [[files]]
