@@ -55,6 +55,11 @@ hash = "f216f9d7d48d821fb82fdeebd6dce93724862158fc2de33f08b4686829529bf0"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "6d6c323e050a88e30615d1cc6b61152f4221d42f8f1084be790538a5af37b27f"
+metafile = true
+
+[[files]]
 file = "mods/beehivetooltips.pw.toml"
 hash = "ad9cd6015f235a5efefd703858939c0a85c5d4bf558c3431d954945f8cd17297"
 metafile = true
@@ -102,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "1e94ced2ebfee6d493a140ada639eb49ef9b24ce48bdde542d0024878b88cde4"
+metafile = true
+
+[[files]]
+file = "mods/corpse.pw.toml"
+hash = "4f4d1b11afed0ce9c7723f0e5d13806c195930583887cc8fcaa5682e48a6b08d"
 metafile = true
 
 [[files]]
@@ -205,6 +215,16 @@ hash = "9e56ec33fc413ca12dac91268e79bc747df8e9cbd08e323a4008e01f035959be"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "d407624e38c852ade10d8bf4de6949bc935d6d7a23079f5602986296c21ac1c6"
 metafile = true
@@ -237,6 +257,16 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "02809202e7463fef9edbae89e6e60ddb3daf8ab7fbb9a71f4bc5ddb0de76afa2"
 metafile = true
 
 [[files]]
@@ -285,6 +315,16 @@ hash = "2fe5c063db5622e0e0a56f739230471de2dd26e08ec80d74fb9c5b2afbe67dc3"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard.pw.toml"
+hash = "520259c531d1308f821d648e71ff88872fa0cd8d3d7f6e1c78b9a1649420deea"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "631e6f5e9fc59c9c06fa13a931847c6cff1aebde567761b30c05256479da9a9a"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "113badc00d2fd77f1e09e91a1c200e54316dc6264fcc2fd5c46b374a0cc511ae"
 metafile = true
@@ -297,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "90012c736f3f389c2a1e659969afac4b1db07fd9a5858acc4336eeb7e074f671"
 metafile = true
 
 [[files]]
@@ -322,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "77e55efd774c80411f170c9dc7820e093b481db7e539d6012b8301404cd3d172"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "cdc11c2caa245d7c0a5cc3a2433ce053a40450103eb6fe04ec1e914b6240b56b"
 metafile = true
 
 [[files]]
