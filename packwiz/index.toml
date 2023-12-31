@@ -175,6 +175,11 @@ hash = "461b3289a997b8bf33e2f74e8f7391828c3a2660443fe1b714778677ca3d0d4c"
 metafile = true
 
 [[files]]
+file = "mods/epic-fight.pw.toml"
+hash = "2d84d8856d023ace76462e16b9946616c6918fe1d0fb29ae246b086fd36bb138"
+metafile = true
+
+[[files]]
 file = "mods/epic-samurais.pw.toml"
 hash = "cc5097915c269ebdf8d2bb64db6dd5ead14e4b20b504c120b0701adb9d8daed7"
 metafile = true
