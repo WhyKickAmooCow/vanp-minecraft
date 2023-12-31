@@ -390,6 +390,11 @@ hash = "63bb2ea9baa9384434936bdf44e87dec08508477e0707fcd9e626ec809e40571"
 metafile = true
 
 [[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "645bcac86091e7ca7a4823b64991acf4890aff06412f71dedaac1b6a895cf54c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/Stay Crew.zip"
 hash = "ad497925317814b62137b94eb5d0a7531abd44827e514a369160a8b80aec0dd7"
 
