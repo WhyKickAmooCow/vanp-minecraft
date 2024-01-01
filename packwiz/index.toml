@@ -75,11 +75,6 @@ hash = "909959f17c8ffe8e3726e2618420ace7b43da5a7affa6adabd119c8b35f161c2"
 metafile = true
 
 [[files]]
-file = "mods/chisels-bits.pw.toml"
-hash = "3f1897a6b66a96097ae508234437d41c2690f874c3e2dc6075e6ec59143210e8"
-metafile = true
-
-[[files]]
 file = "mods/clockwork.pw.toml"
 hash = "12b12d7a77c42339764f9d9320c177e457e6f39f3d274551d8e565d1c4dbddc2"
 metafile = true
@@ -215,11 +210,6 @@ hash = "9e56ec33fc413ca12dac91268e79bc747df8e9cbd08e323a4008e01f035959be"
 metafile = true
 
 [[files]]
-file = "mods/fast-leaf-decay.pw.toml"
-hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
 metafile = true
@@ -325,11 +315,6 @@ hash = "520259c531d1308f821d648e71ff88872fa0cd8d3d7f6e1c78b9a1649420deea"
 metafile = true
 
 [[files]]
-file = "mods/selene.pw.toml"
-hash = "631e6f5e9fc59c9c06fa13a931847c6cff1aebde567761b30c05256479da9a9a"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "113badc00d2fd77f1e09e91a1c200e54316dc6264fcc2fd5c46b374a0cc511ae"
 metafile = true
@@ -342,11 +327,6 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "90012c736f3f389c2a1e659969afac4b1db07fd9a5858acc4336eeb7e074f671"
 metafile = true
 
 [[files]]
