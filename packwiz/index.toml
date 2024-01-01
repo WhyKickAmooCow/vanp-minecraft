@@ -265,6 +265,11 @@ hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "d6b707c0673cde38765d81a99deb45f213e0f8ea1842784310bb5ab311fefe5e"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "02809202e7463fef9edbae89e6e60ddb3daf8ab7fbb9a71f4bc5ddb0de76afa2"
 metafile = true
