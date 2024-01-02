@@ -75,11 +75,6 @@ hash = "909959f17c8ffe8e3726e2618420ace7b43da5a7affa6adabd119c8b35f161c2"
 metafile = true
 
 [[files]]
-file = "mods/clockwork.pw.toml"
-hash = "12b12d7a77c42339764f9d9320c177e457e6f39f3d274551d8e565d1c4dbddc2"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b75e4203963e600df0d18a16b77ed024da0323a08d04a153b52563728eafb852"
 metafile = true
