@@ -130,11 +130,6 @@ hash = "315d472e9c8da1c376a695816991b7d02c5f54a03ab148de2d2fda112abe046b"
 metafile = true
 
 [[files]]
-file = "mods/create-interactive.pw.toml"
-hash = "b7dfb95ad3c190630ce234dd3b837508c31be335f257c03d1b344c5b0b50f56b"
-metafile = true
-
-[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "0aaf7f020e345b2d0dd4cca6ab57bfe84a729053aa7a4fcff4c3ba9a75c3d21d"
 metafile = true
