@@ -320,11 +320,6 @@ hash = "53ace67b4c03bdccf7e31726a8055d8a80139295c57f7bf42aa113a6424df0bb"
 metafile = true
 
 [[files]]
-file = "mods/spark.pw.toml"
-hash = "7d55d3ce406bae0b380718c5b68167c9cc4eb454c1e78c7b754d6c50d04e2b04"
-metafile = true
-
-[[files]]
 file = "mods/terralith.pw.toml"
 hash = "84b5986ae7880e60971db1499fb6ae50d818d335fb795c293d64d57e937aa249"
 metafile = true
