@@ -175,6 +175,11 @@ hash = "461b3289a997b8bf33e2f74e8f7391828c3a2660443fe1b714778677ca3d0d4c"
 metafile = true
 
 [[files]]
+file = "mods/epic-fight-mod.pw.toml"
+hash = "d02b35f332cff791aa0209bae3a8bc7b6531217a5e259412b28300e105a8b488"
+metafile = true
+
+[[files]]
 file = "mods/epic-fight.pw.toml"
 hash = "2d84d8856d023ace76462e16b9946616c6918fe1d0fb29ae246b086fd36bb138"
 metafile = true
@@ -357,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "cdc11c2caa245d7c0a5cc3a2433ce053a40450103eb6fe04ec1e914b6240b56b"
+metafile = true
+
+[[files]]
+file = "mods/weapons-of-miracles-epicfight.pw.toml"
+hash = "d7b62f094bea0fec1abebbbd5cea12770746685c897e577a9f6cae2cc4f5e8b9"
 metafile = true
 
 [[files]]
