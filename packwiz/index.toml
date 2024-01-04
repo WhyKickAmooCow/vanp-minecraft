@@ -165,6 +165,11 @@ hash = "deb593fe7568d28fd43189fd08ba5986a24543fc2867c00c61a973da75fbdbc6"
 metafile = true
 
 [[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "d548b22722c1f0e1e2bf86bb5404066b4fa8259508ccd4d7a7a6615726aa15c6"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "33ff1a266e5519b2163ef928d1ee011b9fce3f091be58cbb556abde5ec7e0a8c"
 metafile = true
@@ -240,6 +245,11 @@ hash = "de79e8615a4d06d01b575fa4ef255fe92e20a308c94769cb3d20612c79c69a9a"
 metafile = true
 
 [[files]]
+file = "mods/kiwi.pw.toml"
+hash = "7dcbec6ccb76d07036d589a184b03fc0dd898d08145693c88477148141eb36ac"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
@@ -290,6 +300,11 @@ hash = "f79379e83a892d01872ebb46815ce9710ecbc075f917656b1d879669f8e65bb1"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "60dae26990035300fa780d675f08756ef4d5fded76423b839328d648869e6b23"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "4d04ec67f5041f013f8794b693c20a00ce79d23cbca877b56803e5a73951414c"
 metafile = true
@@ -322,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "aa9dd1faf202e0d01b36bce26d51321fde896d71b271edb3cb39646fb760bec1"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic.pw.toml"
+hash = "12652e56e4f7110492f31cb3f85717e26d22edbdb3d7e1a04a8be8a828b4b48d"
 metafile = true
 
 [[files]]
@@ -387,6 +407,16 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "645bcac86091e7ca7a4823b64991acf4890aff06412f71dedaac1b6a895cf54c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "ad7a6fd96a72a7a6267002b150894142b3c97f98ea61b28b3a7afd6a08e30784"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "29a4bd3ba522078227801269e2366f38a99f68e09191d0c65f9bc54d824bee93"
 metafile = true
 
 [[files]]
