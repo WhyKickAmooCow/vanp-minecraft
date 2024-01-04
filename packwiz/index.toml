@@ -135,18 +135,8 @@ hash = "0aaf7f020e345b2d0dd4cca6ab57bfe84a729053aa7a4fcff4c3ba9a75c3d21d"
 metafile = true
 
 [[files]]
-file = "mods/create-misc-and-things.pw.toml"
-hash = "97a03319b67bb86c29c05d1d482434c7f3a3b7f0a48c95f1a156b437c80ba213"
-metafile = true
-
-[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "9ed53127278e6256ec173d6b93587f1423976ac5f02cc77a6010f30f751bb8eb"
-metafile = true
-
-[[files]]
-file = "mods/create-stuff-additions.pw.toml"
-hash = "f5bd64cefade8ec8c17b4b061bbe643b5387bc36962c76ea8e2c6c90cbffd173"
 metafile = true
 
 [[files]]
@@ -250,18 +240,8 @@ hash = "90cbd5f1ea785cef93c8af0a54f908fe4aed90f96456aeba529c5e6199f2ba3b"
 metafile = true
 
 [[files]]
-file = "mods/interactive.pw.toml"
-hash = "865389619984533bc7f889358d45d32c942d770f38fb3e536fb1f1af2f002f3b"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "de79e8615a4d06d01b575fa4ef255fe92e20a308c94769cb3d20612c79c69a9a"
-metafile = true
-
-[[files]]
-file = "mods/kiwi.pw.toml"
-hash = "7dcbec6ccb76d07036d589a184b03fc0dd898d08145693c88477148141eb36ac"
 metafile = true
 
 [[files]]
@@ -352,11 +332,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "aa9dd1faf202e0d01b36bce26d51321fde896d71b271edb3cb39646fb760bec1"
-metafile = true
-
-[[files]]
-file = "mods/snow-real-magic.pw.toml"
-hash = "12652e56e4f7110492f31cb3f85717e26d22edbdb3d7e1a04a8be8a828b4b48d"
 metafile = true
 
 [[files]]
