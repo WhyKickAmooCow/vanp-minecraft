@@ -260,11 +260,6 @@ hash = "de79e8615a4d06d01b575fa4ef255fe92e20a308c94769cb3d20612c79c69a9a"
 metafile = true
 
 [[files]]
-file = "mods/kiwi.pw.toml"
-hash = "7dcbec6ccb76d07036d589a184b03fc0dd898d08145693c88477148141eb36ac"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
@@ -352,11 +347,6 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "aa9dd1faf202e0d01b36bce26d51321fde896d71b271edb3cb39646fb760bec1"
-metafile = true
-
-[[files]]
-file = "mods/snow-real-magic.pw.toml"
-hash = "12652e56e4f7110492f31cb3f85717e26d22edbdb3d7e1a04a8be8a828b4b48d"
 metafile = true
 
 [[files]]
