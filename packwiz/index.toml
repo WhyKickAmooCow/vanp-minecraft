@@ -135,8 +135,18 @@ hash = "0aaf7f020e345b2d0dd4cca6ab57bfe84a729053aa7a4fcff4c3ba9a75c3d21d"
 metafile = true
 
 [[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "97a03319b67bb86c29c05d1d482434c7f3a3b7f0a48c95f1a156b437c80ba213"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "9ed53127278e6256ec173d6b93587f1423976ac5f02cc77a6010f30f751bb8eb"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "f5bd64cefade8ec8c17b4b061bbe643b5387bc36962c76ea8e2c6c90cbffd173"
 metafile = true
 
 [[files]]
@@ -237,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-armors.pw.toml"
 hash = "90cbd5f1ea785cef93c8af0a54f908fe4aed90f96456aeba529c5e6199f2ba3b"
+metafile = true
+
+[[files]]
+file = "mods/interactive.pw.toml"
+hash = "865389619984533bc7f889358d45d32c942d770f38fb3e536fb1f1af2f002f3b"
 metafile = true
 
 [[files]]
@@ -421,7 +436,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Stay Crew.zip"
-hash = "ad497925317814b62137b94eb5d0a7531abd44827e514a369160a8b80aec0dd7"
+hash = "d0b225636790f347c04e24bbb5e1e541485a96927dff1435296e5bc1c2adb9d2"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
