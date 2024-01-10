@@ -24,11 +24,6 @@ hash = "6d782ea5149607907b103d5752a0f4f1ca49382495ea26c4090a40a5221bf9ad"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "4864451af376b26104b421900f69a0bea7c462edc2e47e359a341dbc457f3508"
-metafile = true
-
-[[files]]
 file = "mods/ars-creo.pw.toml"
 hash = "6f498e244b2294d7388bb5b3be29c98790ea78b597cbdef92b43f62e1bb85896"
 metafile = true
