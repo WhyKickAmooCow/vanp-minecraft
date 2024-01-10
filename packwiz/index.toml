@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ding.toml"
+hash = "f0c926a0e6f178c2fe8b916044b46022938cd4fbebe47e7f28419705802c6bf4"
+
+[[files]]
 file = "configureddefaults/options.txt"
 hash = "9d77a81a029dcc5181fd417abded787dff3465455a6c0025747095bf2a23dcf3"
 
@@ -77,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b75e4203963e600df0d18a16b77ed024da0323a08d04a153b52563728eafb852"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "3d04d8974dbefaece1fe0222f79a2e936cda6ca1fa05fcda81a3d3725e1e7a95"
 metafile = true
 
 [[files]]
@@ -167,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "96e0915c74e1ec1f137208d4d247d307b1aaad8a9aa2cbaafb3730d4495d03a4"
+metafile = true
+
+[[files]]
+file = "mods/ding.pw.toml"
+hash = "efcc621dcc9e78c82b188f63ea82c8d6278bb7ee86bbcfdc658f0eb51e7b859e"
 metafile = true
 
 [[files]]
@@ -426,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Stay Crew.zip"
-hash = "d0b225636790f347c04e24bbb5e1e541485a96927dff1435296e5bc1c2adb9d2"
+hash = "f4158642f4d497cecd9bc20646b5e5893ba82a55959774fc616d2f860c250077"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
