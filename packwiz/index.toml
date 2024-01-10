@@ -269,6 +269,11 @@ hash = "90cbd5f1ea785cef93c8af0a54f908fe4aed90f96456aeba529c5e6199f2ba3b"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "3763adf24dc8f0d44077cb2e8e6b70ec9cae6a85146a309ac5309a2913d92461"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "8fd61b13a6da4b7f5cdf69ab6241c296b3019846a1635a2cbb427fbbb21635b2"
 metafile = true
@@ -336,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/reforgium.pw.toml"
 hash = "f1bcbc345d9d7fe0014918a1a044b2d2a13d3f050750d9fc0854ff0864096112"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "ea6ddbc21c6d4fb8079c243f7b40ca49adc67b126183673eb5505a640914d72d"
 metafile = true
 
 [[files]]
