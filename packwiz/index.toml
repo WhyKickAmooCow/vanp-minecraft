@@ -389,6 +389,11 @@ hash = "a3bab37714fd9b939bbfe9376f2d0a02756a9021ebb2e0202d4fd6cc7ea250d5"
 metafile = true
 
 [[files]]
+file = "mods/too-many-glyphs.pw.toml"
+hash = "fa13f21dd9ee1351610d4fd9077f449fba8bc18e8b2ad5c8827af8793def61f5"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-computers.pw.toml"
 hash = "0704fd71f951c048448da3a434675e4e0f44b18739f73614ad817b06c1973b7a"
 metafile = true
