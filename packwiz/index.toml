@@ -264,11 +264,6 @@ hash = "90cbd5f1ea785cef93c8af0a54f908fe4aed90f96456aeba529c5e6199f2ba3b"
 metafile = true
 
 [[files]]
-file = "mods/interactive.pw.toml"
-hash = "865389619984533bc7f889358d45d32c942d770f38fb3e536fb1f1af2f002f3b"
-metafile = true
-
-[[files]]
 file = "mods/jei.pw.toml"
 hash = "3763adf24dc8f0d44077cb2e8e6b70ec9cae6a85146a309ac5309a2913d92461"
 metafile = true
