@@ -1,0 +1,13 @@
+name = "Cobblepedia"
+filename = "Cobblepedia-Fabric-0.6.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2obPz7jf/versions/UcCVV7y8/Cobblepedia-Fabric-0.6.3.jar"
+hash-format = "sha1"
+hash = "00b404f9042007c7519111dd9e241eacf0ab2397"
+
+[update]
+[update.modrinth]
+mod-id = "2obPz7jf"
+version = "UcCVV7y8"

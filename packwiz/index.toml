@@ -1,6 +1,121 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/apugli.pw.toml"
+hash = "1c2f9cbdf30bafa9d0f1db49b79b8bb405722a7a6aa64b9da1f9c6e2e66aab8c"
+metafile = true
+
+[[files]]
+file = "mods/ascension-megamons.pw.toml"
+hash = "4e0bf7c5e10c98d28de759fb46557938c4a0f4171118225175fb659a45c6e49a"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-capture-xp.pw.toml"
+hash = "ea8db677ff0708fff6d58e47a8ff1fc70769c79d85c1ba1fadfbca72ecda944c"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon.pw.toml"
+hash = "abc57f063554e33a6bdd8b6aa39980293b1788fe4daea7f4d9cf215383d13145"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonextras.pw.toml"
+hash = "45a614920e9607f956111c8164092fb1c45a0bbc7246374051c0f4c0c9ee65dd"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonrider1.5.pw.toml"
+hash = "fd0ef5ab3aeb0897ba9259977c21a1dab4bb3272df9b9c1acd5da15506e8189b"
+metafile = true
+
+[[files]]
+file = "mods/cobblepedia.pw.toml"
+hash = "b2a6b1cabda05410c3f46b0db1a9944a25c1e0a08f26fa4d9131d2e387bb0763"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "19fa105045a5a918e7ab4bc74ab58b6056f764856dd6f46ce95006e16cb41fd4"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "98e86fe330c6c92a84ecae2e70f6e38b7f442a3859eac8b2238fc485bf5eed41"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "3a54eb27e331d044bdc68dcea0e63c239e21f200683054ecb451c7c23d9407e8"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "97e571c0d78f5d05afb5f90ddca30eda76fcac1cdcae0f4392eab15563689ae2"
+metafile = true
+
+[[files]]
+file = "mods/just-zoom.pw.toml"
+hash = "77c3b723aed03a3b7d5ff6eb347c514bfd9ae60934dffeb56136e62af6cee431"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "e7712ecf20e3c2e52da19f968762b671726222cbc4c48206231b56b6c6cd79a7"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "e09b4e3348ee5e8b836e40ea4745bf3ab0d584512e31166ab34a219c437a736a"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+metafile = true
+
+[[files]]
+file = "mods/poketyped-origins-for-cobblemon.pw.toml"
+hash = "cbaafad79688a0f23659c354f46322fbea04b97ba0aea3fdf16b079444534aee"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "8445f71e1d1a5d5574204382fba1c75b5506ccf07b8a7605f0d810574c113d70"
+hash = "5f60337276d6cc70902b57d12bda7b6638888ea9f9e9561d91a1179b78487dba"
 metafile = true

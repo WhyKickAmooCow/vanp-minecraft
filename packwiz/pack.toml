@@ -1,12 +1,12 @@
-name = "Vanilla Plus"
+name = "Cobblemon plus"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8894f6e491ab13871ee5f8cd25fef15940c654818bd778c951ac50def60e2305"
+hash = "c435a8e13dce3d32e9550a8a2eb6f9d854223cb137c9898a4d6c33925ae6c4ca"
 
 [versions]
-fabric = "0.14.21"
-minecraft = "1.19.2"
+fabric = "0.15.11"
+minecraft = "1.20.1"
