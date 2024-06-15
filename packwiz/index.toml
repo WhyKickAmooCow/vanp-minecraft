@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "c0fb764563c122328f9ba69e7d27c2b3b2e21fc607782affd6710b943f03fe75"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+hash = "6a36d39f010d87ca7fece6e3ef177d3af8f98dfa9a91a4eff730e06a7b169bb2"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
+metafile = true
+
+[[files]]
 file = "mods/apugli.pw.toml"
 hash = "1c2f9cbdf30bafa9d0f1db49b79b8bb405722a7a6aa64b9da1f9c6e2e66aab8c"
 metafile = true
@@ -8,6 +23,16 @@ metafile = true
 [[files]]
 file = "mods/ascension-megamons.pw.toml"
 hash = "4e0bf7c5e10c98d28de759fb46557938c4a0f4171118225175fb659a45c6e49a"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
 metafile = true
 
 [[files]]
@@ -36,8 +61,38 @@ hash = "b2a6b1cabda05410c3f46b0db1a9944a25c1e0a08f26fa4d9131d2e387bb0763"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "0360f47c1afd7385518db9df5d809344e1bcdc163e940a8744ee61b6d745b6ce"
+metafile = true
+
+[[files]]
+file = "mods/create-cobblemon-industrialized.pw.toml"
+hash = "7aada8a95ce40f736be9dc9cee6465f5620b45f18725edbe264de9cd3a2579b5"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "db690311634819527b9455423d21dce9057a5f00292e8270a1b2baa28a063936"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "19fa105045a5a918e7ab4bc74ab58b6056f764856dd6f46ce95006e16cb41fd4"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "9f499eff7ddb9eeab719f19808cbcf41f2b77d06ebf946f157cf7b5f52f64e70"
 metafile = true
 
 [[files]]
@@ -61,6 +116,11 @@ hash = "3a54eb27e331d044bdc68dcea0e63c239e21f200683054ecb451c7c23d9407e8"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "97e571c0d78f5d05afb5f90ddca30eda76fcac1cdcae0f4392eab15563689ae2"
 metafile = true
@@ -81,6 +141,16 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9ecf3bd4cd96af63bb04063f74b8a13cea46a77bfce670b4408417f8d0d293e0"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "e7712ecf20e3c2e52da19f968762b671726222cbc4c48206231b56b6c6cd79a7"
 metafile = true
@@ -96,13 +166,43 @@ hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
-file = "mods/poketyped-origins-for-cobblemon.pw.toml"
-hash = "cbaafad79688a0f23659c354f46322fbea04b97ba0aea3fdf16b079444534aee"
+file = "mods/polymorph.pw.toml"
+hash = "210f63f6db9305b53bcb2f6a0b39e2231267f0b81dcc5673bfe3e98aa07fd0b2"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "e6d365b3adae4ea6000f80601cf0e35e5ddccb56b38faed9aa086008c0bd64e1"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "5d694c42e5e6759807f1f5756de3dd24f098517143b8d8aac5721b7d5cf502b1"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "05e85644cd5922f05f678fbd352b25d34d6ae26b16fe87dcd23527a373f59f54"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "4fb915d2bc266c1ed7a0dce77e3da295305c5dbec7a7ae1d142b3abf621be309"
 metafile = true
 
 [[files]]
@@ -113,6 +213,21 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "74a5d6dc2fa3494650bf951f2212c70eeb6b8d1af209b5dab4b7a8582302865c"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "a66f114b66d41c0de64f6d7cb00d253b858ecb8dfef497aed5feac1a690111a2"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "441bb3a82f6d0b09cc10984cfd468f53bdd9879f7fda5b0299b53ccbf2ba7ca6"
 metafile = true
 
 [[files]]
