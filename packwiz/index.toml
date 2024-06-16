@@ -41,6 +41,11 @@ hash = "b79cc58d8f59edf82a64eac716b84f11911b2bc63c40529575dbaf67f4896efb"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "d94da74c5f4dce9b7b6586f04b3bfe99ff2b2b5298258b8ab9b111c1c126bb67"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
@@ -153,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "3a54eb27e331d044bdc68dcea0e63c239e21f200683054ecb451c7c23d9407e8"
+metafile = true
+
+[[files]]
+file = "mods/ironchests.pw.toml"
+hash = "3d7a6e5c73f9292286f772025984f3e039ed6eb31b3326c4b77edf221e6ee3fe"
 metafile = true
 
 [[files]]
@@ -271,6 +281,11 @@ hash = "78264cc5097e26b3c5b34fd1b01754182b4543602ea99079a5d3fa4e69a7e579"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "ce3e958a06f4c421098fc7b7f2202198c9d6e5db19da105f9fa43736e84e40a9"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "74a5d6dc2fa3494650bf951f2212c70eeb6b8d1af209b5dab4b7a8582302865c"
 metafile = true
@@ -283,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "441bb3a82f6d0b09cc10984cfd468f53bdd9879f7fda5b0299b53ccbf2ba7ca6"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "2e18e36b7440a9918de1ad49d287ffee27060ed5da1c971eaff188ee7ecd38ac"
 metafile = true
 
 [[files]]
