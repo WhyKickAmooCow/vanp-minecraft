@@ -81,6 +81,11 @@ hash = "b2a6b1cabda05410c3f46b0db1a9944a25c1e0a08f26fa4d9131d2e387bb0763"
 metafile = true
 
 [[files]]
+file = "mods/cobbreeding.pw.toml"
+hash = "8a240b2a885919e6e607d39b96de0d59353c7174dfb9dac45b04afaa1fad1584"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "e64cad200dfc6145b9822c7d7c7a89dd040e28bd8e79d4f827c02c9c348b08df"
 metafile = true
 
 [[files]]
